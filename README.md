@@ -1,9 +1,9 @@
 # TODOList API — Лаба 1 (Symfony REST + CRUD)
 
 Каркас backend-проекта по требованиям лекции:
-- REST-стиль (слайды 16-17)
-- CRUD: Create=POST, Read=GET, Update=PUT, Delete=DELETE (слайд 18)
-- Тема: TODOList (слайд 23)
+- REST-стиль
+- CRUD: Create=POST, Read=GET, Update=PUT, Delete=DELETE
+- Тема: TODOList
 
 ## 1. Установка окружения
 
